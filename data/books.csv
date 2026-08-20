@@ -1,0 +1,4 @@
+book_id,title,author,year,publisher,total_copies,available_copies,subject
+1001,C++ Primer,Stanley B. Lippman; Josée Lajoie; Barbara E. Moo,2012,Addison-Wesley,4,4,Programming
+1002,Clean Code,Robert C. Martin,2008,Prentice Hall,3,3,Software Engineering
+1003,The Pragmatic Programmer,David Thomas; Andrew Hunt,2019,Addison-Wesley,2,2,Software Development
